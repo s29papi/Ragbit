@@ -1,0 +1,18 @@
+{
+  "name": "ragbit-exchange",
+  "version": "1.0.0",
+    "private": true,
+      "workspaces": [
+    "contracts",
+    "frontend", 
+    "backend-service",
+    "sdk"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "RAGbits Exchange monorepo"
+}
