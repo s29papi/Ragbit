@@ -1,0 +1,6 @@
+.env
+ui/
+sdk/
+re.txt
+node_modules/
+backend/

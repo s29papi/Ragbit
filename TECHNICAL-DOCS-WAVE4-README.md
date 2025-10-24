@@ -1,16 +1,16 @@
 
 ---
 
-# 🧩 RAGBIT Exchange — Wave 3 Technical Documentation
+# 🧩 RAGBIT Exchange — Wave 4 Technical Documentation
 
 **Contract Address:** `0xC0eB50d7dB5dFd92c81F3850e3AD12aAB804F790`
-**Wave:** 3 — Buyer–Seller Secure Data Exchange
+**Wave:** 4 — Buyer–Seller Secure Data Exchange
 
 ---
 
 ## 🧠 Overview
 
-Wave 3 introduces a **peer-to-peer encrypted key exchange layer** that enables secure transfer of decryption keys between buyers and sellers **after payment verification** on-chain.
+Wave 4 introduces a **peer-to-peer encrypted key exchange layer** that enables secure transfer of decryption keys between buyers and sellers **after payment verification** on-chain.
 
 This layer connects three systems:
 
